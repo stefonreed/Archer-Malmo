@@ -1,0 +1,24 @@
+p {
+	border: 2px solid red;
+	background-color: white;
+	margin: 0 auto 40px auto;
+	text-align: center;
+	padding: 40px 40px 40px 40px
+	width: 80;
+	color:; blue;
+}
+
+img {
+	text-align: center;
+}
+body{
+	text-align: center;
+}
+
+h1:hover{
+	border: 2px solid black;
+	color: black;
+	transition: color .5s ease;
+	visibility: visible;
+	border-style: solid;
+}
